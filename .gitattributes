@@ -1,1 +1,5 @@
 *.accdb filter=lfs diff=lfs merge=lfs -text
+
+# Codigo VBA exportado do Access: contar como VBA na barra de linguagens do GitHub
+*.bas linguist-language=VBA
+*.cls linguist-language=VBA

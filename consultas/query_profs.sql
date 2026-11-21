@@ -1,0 +1,2 @@
+SELECT NOME
+FROM tb_prof;
