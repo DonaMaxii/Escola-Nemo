@@ -3,3 +3,5 @@
 # Codigo VBA exportado do Access: contar como VBA na barra de linguagens do GitHub
 *.bas linguist-language=VBA
 *.cls linguist-language=VBA
+# Consultas SQL exportadas do Access: mostrar SQL na barra de linguagens
+*.sql linguist-detectable=true
